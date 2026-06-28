@@ -1,5 +1,5 @@
 # Klotski Solver
-
+自己玩的時候解不出來，透過BFS暴力解
 React + TypeScript Klotski / Hua Rong Dao solver for the classic "Heng Dao Li Ma" starting board.
 
 ## Features
